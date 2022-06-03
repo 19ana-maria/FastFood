@@ -1,3 +1,4 @@
 For Loging to Main form use Admin as username and Password as password
 Sorry for not connecting the datebase to the login form. In login.cs you will find a commented section where you can see our code for connecting.
 Unfortunately it is not working how it is suppose to do.
+A project created by Ana-Maria Ciutea(Merissor98) and Bogdan-Valentin Floricescu(Shareby)
